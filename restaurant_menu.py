@@ -14,8 +14,6 @@ while True:
 
 print menu_dic
 
-price
-
 text_file = open("Menu.txt", "w")
 
 text_file.write("MENU OF THE DAY\n" + "\n")
